@@ -24,7 +24,7 @@
     
     <div class="container">
        <h2>Formulario</h2>
-       <form action="cadastra.php" method="POST">
+       <form action="salvauser.php" method="POST">
         <div class="mb-3">
             <label for="nome">Nome</label>
             <input type="text" name="nome">
